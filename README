@@ -27,13 +27,13 @@ $ git clone https://github.com/rfbsoft/polievanie_kernel.git kernel_3.12.18
 4. Create build directory
 -------------------------
 
-$ cd /srv/worspace/raspberrypi/poky
+$ cd /srv/workspace/raspberrypi/poky
 $ . ./oe-init-build-env
 
 5. Configure build directory
 ----------------------------
 
-$ cd /srv/worspace/raspberrypi/poky/build/conf
+$ cd /srv/workspace/raspberrypi/poky/build/conf
 
 In the file local.conf add following line:
 MACHINE ?= "raspberrypi"
