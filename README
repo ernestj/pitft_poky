@@ -31,7 +31,7 @@ $ . ./oe-init-build-env
 5. Configure build directory
 ----------------------------
 
-$ cd cd /srv/worspace/raspberrypi/poky/build/conf
+$ cd /srv/worspace/raspberrypi/poky/build/conf
 
 In the file local.conf add following line:
 MACHINE ?= "raspberrypi"
