@@ -8,7 +8,7 @@ You need cca 40 GB of free space
 $ sudo chmod o+w /srv
 $ mkdir -p /srv/workspace/raspberrypi
 $ sudo chmod o-w /srv
-$ cd /srv/worspace/raspberrypi
+$ cd /srv/workspace/raspberrypi
 $ git clone https://github.com/rfbsoft/polievanie_poky.git poky
  
 2. Clone meta-raspberrypi repository
